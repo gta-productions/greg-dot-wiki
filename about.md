@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is a quick blog test using the tool listed as the first google search result for "github jekyll blog"
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Here are some other places to check out:
+
+* https://gregallen.io - Products, tools, & services that I like
+* https://gregorythomasallen.com - Site I made when i first learned what HTML was (2014)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[greg@gregallen.net](mailto:greg@gregallen.net)
